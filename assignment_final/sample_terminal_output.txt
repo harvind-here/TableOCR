@@ -1,0 +1,6 @@
+Processing page: assignment_final\pages\page_73.png
+Detected layout blocks:
+Type: Table, Coordinates: (1.6540527, 12.487427, 1625.806, 1031.2285)
+Extracted table 1 from page page_73 into sheet 'Table_1'
+Excel file saved to: assignment_final/extractions/page_73_tables.xlsx
+Time taken to process page page_73: 32.88 seconds

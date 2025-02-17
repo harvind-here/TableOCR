@@ -1,0 +1,17 @@
+*.pyc pycache/
+
+assignment_final/pages.zip
+assignment_final/extractions
+
+method1/extractions
+method1/outputs
+method1/Table_detection_using_Transformers
+
+method2/table_detection_ocr
+method2/table_extraction_excel
+
+yolov8n.pt
+method1/yolov8m-table-extraction.pt
+
+pages
+*.log *.tmp
