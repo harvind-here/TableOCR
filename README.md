@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A solution for Image documents to Excel format. Ideal for Table extraction. Accuracy is reliable for non handwritten tables. But for handwritten reliable to some extent (lighting conditions, shades should be minimized, works better if scanned document).
+A solution for Image documents to Excel format. Ideal for Table extraction. Accuracy is reliable for non handwritten tables. But for handwritten reliable to some extent (lighting conditions, shades should be minimized, works better if scanned document). But table layout/structure is preserved in either case :)
 
 This project provides multiple methods to extract table structures from image documents and export the results into Excel files. Choose the method that best fits your needs:
 
